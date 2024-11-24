@@ -1,2 +1,2 @@
 # Practicum_projects
-This repository stores the project I've worked on during my Yandex.Pracitcum study.
+This repository stores the projects I've worked on during my Yandex.Pracitcum study.
